@@ -2,7 +2,7 @@
 
 - 1Password
 
-**A*
+**A**
 
 - Adobe Acrobat Reader DC
 
