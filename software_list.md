@@ -17,6 +17,10 @@
 - Google Chrome
 插件：1password, Markdown Here
 
+**K**
+
+- Kindle
+
 **M**
 
 - 幕布
