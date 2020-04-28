@@ -8,6 +8,10 @@
 
 - Anaconda
 
+**E**
+
+- Epic
+
 **G**
 
 - git
