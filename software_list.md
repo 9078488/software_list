@@ -52,6 +52,14 @@
 
 - Tor Browser
 
+**U**
+
+- Ubuntu
+
+**X**
+
+- XLaunch(vcxsrv)
+
 **Y**
 
 - 印象笔记
