@@ -20,10 +20,8 @@
 
 - git
 
-- GitHub Desktop
-
 - Google Chrome
-插件：1password, Markdown Here
+插件：1password, Markdown Here, adblock
 
 **K**
 
