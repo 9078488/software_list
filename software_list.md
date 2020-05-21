@@ -58,6 +58,8 @@
 
 - XLaunch(vcxsrv)
 
+- Xmind
+
 **Y**
 
 - 印象笔记
