@@ -49,6 +49,7 @@
 **T**
 
 - Tor Browser
+- Typora
 
 **U**
 
