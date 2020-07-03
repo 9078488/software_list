@@ -35,6 +35,10 @@
 - 幕布
 - MySQL
 
+**N**
+
+- Notion
+
 **O**
 
 - OpenVPN GUI
