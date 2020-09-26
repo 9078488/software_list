@@ -22,13 +22,17 @@
 **G**
 
 - git
-
 - Google Chrome
 插件：1password, Markdown Here, adblock
+- Google Drive
 
 **K**
 
 - Kindle
+
+**L**
+
+- Lantern
 
 **M**
 
@@ -66,6 +70,10 @@
 **U**
 
 - Ubuntu
+
+**V**
+
+- v2rayN-Core
 
 **X**
 
