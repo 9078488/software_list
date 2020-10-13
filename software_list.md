@@ -6,6 +6,7 @@
 
 - Adobe Acrobat Reader DC
 - Anaconda
+- Anchor Wallet
 
 **B**
 
@@ -57,6 +58,8 @@
 
 **S**
 
+- Scatter
+
 - Shadowsocks
 
 - Sublime
@@ -74,6 +77,7 @@
 **V**
 
 - v2rayN-Core
+- Visual Studio Code
 
 **X**
 
