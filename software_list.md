@@ -20,12 +20,20 @@
 
 - Epic
 
+**F**
+
+- Freemind
+
 **G**
 
 - git
 - Google Chrome
 插件：1password, Markdown Here, adblock
 - Google Drive
+
+**J**
+
+- Java
 
 **K**
 
